@@ -301,7 +301,7 @@ Delivery Performance
 
 1. Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/Supply-Chain-Logistics-Analytics.git
+git clone https://github.com/Shlok-up/Supply-Chain-Management-System
 
 2. Navigate to the project folder:
 
