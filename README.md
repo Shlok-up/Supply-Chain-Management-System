@@ -91,6 +91,8 @@ Supply-Chain-Logistics-Analytics/
 * Collected supply chain datasets containing information about orders, products, inventory, suppliers, manufacturing, transportation and deliveries.
 * Examined dataset structure, columns, data types and overall data quality.
 * Identified relevant attributes for each analytical module.
+* Dataset1 link of kaggle:https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
+* Dataset2 link of kaggle:https://www.kaggle.com/datasets/amirmotefaker/supply-chain-dataset
 
 2. Data Cleaning & Preprocessing (Python)
 
